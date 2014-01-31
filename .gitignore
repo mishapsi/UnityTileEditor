@@ -1,0 +1,17 @@
+Assembly-CSharp-Editor-vs.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-vs.csproj
+Assembly-CSharp.csproj
+Library/
+ProjectSettings/
+Secret-csharp.sln
+Secret.sln
+Secret.userprefs
+*.meta
+Assets/Rotorz/
+Temp/
+uni2dtileeditor-csharp.sln
+uni2dtileeditor.sln
+uni2dtileeditor.userprefs
+Assets/Resources/Levels/
+*.unity
